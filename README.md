@@ -23,3 +23,10 @@ whoaa I didn't think that a simple readme would get merge conflicts. I legit lea
 I had a merge conflict while pulling because I made the prev PR by a different account. Why is this so much fun xD
 
 okay now, my job here is done xD
+
+
+## This year's swag
+<br><br>
+![Screenshot](tshirt_light.png)
+<br>
+![Screenshot](tshirt_dark.png)

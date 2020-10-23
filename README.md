@@ -23,3 +23,6 @@ whoaa I didn't think that a simple readme would get merge conflicts. I legit lea
 I had a merge conflict while pulling because I made the prev PR by a different account. Why is this so much fun xD
 
 okay now, my job here is done xD
+
+i really hope i get one t-shirt because it will boost me a lot and thanks for to repo 
+and to hacktober for doing so amazing contests

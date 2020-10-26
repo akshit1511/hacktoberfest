@@ -1,11 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	int a = 10, b = 0, c = 10;
-	char* str = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq "
-				"TNn*RPn/QPbEWS_JSWQAIJO^NBELPeHBFHT}TnALVlBL"
-				"OFAkHFOuFETpHCStHAUFAgcEAelclcn^r^r\\tZvYxXyT|S~Pn SPm "
-				"SOn TNn ULo0ULo#ULo-WHq!WFs XDt!";
 	while (a != 0)
 	{
 	a = str[b++];

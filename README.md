@@ -17,6 +17,7 @@ I hope I get an extra tshirt this time too
 
 I gave my last year's tshirt to my roomie, he was happy :)
 
+I'm sure it will be the best shirt in my closet
 
 whoaa I didn't think that a simple readme would get merge conflicts. I legit learn so much every time I make this high quality pull request.
 
